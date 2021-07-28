@@ -46,7 +46,7 @@ export default {
         {title: "Bitcoin Details", to: "/details"},
         {title: "Bitcoin Umrechner", to: "/converter"},
         {title: "Bitcoin Diagramm", to: "/diagram"},
-        {title: "Meine Bitcoin", to: "/my-bitcoinn"}
+        {title: "Meine Bitcoin", to: "/my-bitcoin"}
       ]
     }
   }
