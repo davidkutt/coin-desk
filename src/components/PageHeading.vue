@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center pt-5">
+  <div class="text-center pt-5 pb-5">
     <h1 class="heading my-10">{{ value }}</h1>
   </div>
 </template>

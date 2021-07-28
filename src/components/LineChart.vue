@@ -14,7 +14,7 @@ export default {
     }
   },
   mounted() {
-    setTimeout(this.renderChart(this.chartData, this.options), 1000)
+    this.renderChart(this.chartData, this.options);
   }
 
 };
